@@ -204,6 +204,3 @@ dotnet run --framework net8.0-maccatalyst
 - Location sharing and synchronization
 - Advanced filtering and search capabilities
 
-## License
-
-This project is created for educational purposes and follows .NET MAUI best practices and coding guidelines.
